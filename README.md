@@ -1,8 +1,8 @@
-Music Player
+# Music Player
 
 A simple, interactive music player built using HTML, CSS, and JavaScript. This project allows users to play, pause, change, and reverse tracks with a user-friendly interface.
 
-Features
+# Features
 
 Play/Pause Music: Easily control music playback with play and pause functionality.
 
@@ -12,7 +12,7 @@ Reverse Music: Ability to reverse playback, adding an interesting feature to the
 
 Stylish Interface: Built with responsive design in CSS for an intuitive and engaging user experience.
 
-Built With
+# Built With
 
 HTML: For structuring the music player.
 
